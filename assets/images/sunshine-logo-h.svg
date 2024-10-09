@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 429 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-826.655,-398.756)">
+        <g transform="matrix(1,0,0,1,-8.39679,-0.86774)">
+            <g transform="matrix(0.219565,0,0,0.219565,786.154,389.4)">
+                <g>
+                    <g>
+                        <g>
+                            <g transform="matrix(1.39121,0,0,1.39121,-483.688,-187.211)">
+                                <path d="M590.556,212.945L590.556,168.039L799.051,168.039L799.051,556.009L590.556,556.009L590.556,484.951C593.722,485.093 596.884,485.164 600.044,485.164C620.384,485.164 638.863,482.063 655.483,475.862C672.102,469.661 685.311,460.173 695.108,447.398C704.906,434.624 709.805,418.811 709.805,399.959C709.805,381.603 705.216,366.782 696.039,355.496C686.861,344.21 676.133,335.962 663.854,330.753C651.576,325.544 636.135,320.335 617.531,315.126C606.205,312.106 597.213,309.301 590.556,306.711L590.556,279.035C590.617,279.035 590.679,279.035 590.742,279.035C601.656,279.035 615.795,282.135 633.158,288.337C650.522,294.538 666.273,301.731 680.412,309.917L711.666,244.06C696.783,234.634 679.233,227.068 659.017,221.363C638.801,215.658 618.523,212.806 598.183,212.806C595.604,212.806 593.062,212.852 590.556,212.945Z" style="fill:rgb(0,52,164);"/>
+                            </g>
+                            <g transform="matrix(2.58935,0,0,2.58935,-168.324,-205.31)">
+                                <path d="M195.503,227.096L195.503,202.307C199.271,203.382 202.682,204.44 205.735,205.481C209.771,206.858 213.182,208.206 215.967,209.525C223.036,212.874 226.571,217.525 226.571,223.478C226.571,228.439 224.71,232.098 220.99,234.454C217.269,236.811 212.184,237.985 205.735,237.989C201.674,237.992 195.503,232.259 195.503,227.096Z" style="fill:rgb(0,52,164);"/>
+                            </g>
+                        </g>
+                        <g transform="matrix(14.7429,0,0,14.7429,222.23,-316.794)">
+                            <clipPath id="_clip1">
+                                <path d="M17.792,32.119C18.4,31.905 19.4,31.369 19.65,30.226C19.936,28.868 19.293,27.939 17.65,27.653C15.827,27.332 12.112,27.975 8.61,29.618C5.609,31.047 2.465,33.227 1.894,35.692C1.358,38.157 2.572,40.087 6.109,43.374C7.146,44.338 8.039,45.196 8.789,45.982C12.683,44.41 20.15,42.302 21.008,42.123C21.937,41.909 22.116,42.337 21.151,42.516C20.329,42.695 13.255,44.731 9.254,46.446C12.005,49.34 12.933,51.198 12.576,53.485C12.147,56.343 8.61,57.951 4.93,57.593C1.393,57.272 -0.25,55.199 0.071,53.306C0.536,50.805 3.751,48.518 7.253,46.696C7.467,46.553 7.789,46.446 8.074,46.303C7.396,45.589 6.538,44.767 5.609,43.838C1.679,40.122 0.322,38.193 0.893,35.549C1.465,32.905 3.644,30.905 8.182,28.904C12.755,26.867 15.863,26.653 17.792,26.974C19.9,27.332 20.686,28.725 20.329,30.404C19.972,31.905 18.436,32.655 18.007,32.691C17.578,32.762 17.364,32.298 17.792,32.119ZM11.754,53.306C12.04,51.52 11.397,49.876 8.539,46.768C8.217,46.911 7.967,47.054 7.717,47.196C3.323,49.59 1.179,51.377 0.822,53.306C0.536,54.949 2.036,56.557 4.966,56.771C8.539,56.986 11.397,55.307 11.754,53.306Z" clip-rule="nonzero"/>
+                            </clipPath>
+                            <g clip-path="url(#_clip1)">
+                                <g transform="matrix(0.308926,-0,-0,0.308926,0.0319534,24.6465)">
+                                    <use xlink:href="#_Image2" x="0" y="7.143" width="71px" height="100px"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-8.39679,-0.86774)">
+            <g transform="matrix(1.05811,0,0,1.05811,-155.62,167.305)">
+                <g transform="matrix(64,0,0,64,1344.67,297.994)">
+                </g>
+                <text x="1029.41px" y="297.994px" style="font-family:'KohinoorDevanagari-Bold', 'Kohinoor Devanagari';font-weight:700;font-size:64px;fill:url(#_Linear3);">SUNSHINE</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image2" width="71px" height="100px" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCABkAEcDAREAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAcDBv/EABoQAQEBAQEBAQAAAAAAAAAAAAADMQFBAjL/xAAZAQEBAQEBAQAAAAAAAAAAAAADAgUGBwj/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhEDEQA/AOps+dMvTKHY+UUSxsjolj5RQ7GyOh2PlFEqbI6JU+R0Opsoqt1cZluUSpsjodj5RRLHyOh26bKKHU2R0Sp8oolTZHQ6nyOq3VxeW5RKnyih1NkdEsfKKHY+R0OpsoolTZHRKnyih1NkdVuzjMtyiWPlFDsbI6JY+UUOxsjodjZRRLHyOiWNkdEpp8oqtVcZluUSpsoodT5HRLGyOh2PlFDqbI6JU+UUSpsjolNNlFVqrjMtyiWPkdDsbI6Jbunyih2NlFDsfI6JY2R0Sx8oov3pohWauMy26JU2UUOp8joljZRQ6nyOh1NlFEqfI6JY2UUX6/RohWauMy26JU+UUOpsjolT5RQ7GyOh1PkdEr6bKKJU+R0buliFYq43LcolTZHQ6nyiiVNkdDsfKKHY2R0Sp8ooljZHRu6WIVirjctyiVPkdDr6bI6JY+UUOpsjodT5RRKmyOiVPlFHKhV7ONy26JY2UUOx8jolumyih2PkdDqbI6JU+UUSxsjrAqVWq43LbolT5HQ7HyiiWNkdDqfKKJX02R0Opsoolj5HWJEqrVx2W3RKmyOiVPkdDsbKKHY+R0SuGyih1w+R0Sp8orJaX//Z"/>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(315.264,0,0,89.6,1029.41,275.594)"><stop offset="0" style="stop-color:rgb(230,156,0);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(133,90,0);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
